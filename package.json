@@ -1,18 +1,78 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@f1stnpm2/repudiandae-numquam-dicta",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "f1st",
   "license": "MIT",
+  "dependencies": {
+    "@diahkomalasarinpm/odio-facilis-beatae": "^1.0.0",
+    "@f1stnpm/corporis-velit-deleniti-temporibus": "^1.0.0",
+    "@f1stnpm/dolor-officia-est-asperiores": "^1.0.0",
+    "@f1stnpm/ea-sunt-delectus-nihil": "^1.0.0",
+    "@f1stnpm/eius-ab-blanditiis-voluptas": "^1.0.0",
+    "@f1stnpm/molestias-sint-cupiditate-illum": "^1.0.0",
+    "@f1stnpm/repellat-eveniet-pariatur-voluptas": "^1.0.0",
+    "@f1stnpm/tenetur-dicta-praesentium-explicabo": "^1.0.0",
+    "@f1stnpm/vitae-blanditiis-sint-tempore": "^1.0.0",
+    "@f1stnpm2/repudiandae-numquam-exercitationem": "^1.0.0",
+    "@wemnyelezxnpm/neque-eligendi-dolorem": "^1.0.0"
+  },
+  "keywords": [
+    "phone",
+    "vest",
+    "WebSockets",
+    "gradients css3",
+    "callbind",
+    "starter",
+    "ArrayBuffer",
+    "deepcopy",
+    "proto",
+    "id",
+    "delete",
+    "emit",
+    "time",
+    "length",
+    "crypto",
+    "bundler",
+    "shim",
+    "status",
+    "fullwidth",
+    "Array.prototype.flatten",
+    "last",
+    "polyfill",
+    "formatting",
+    "concatMap",
+    "matches",
+    "bundling",
+    "classes",
+    "core-js",
+    "app",
+    "helpers",
+    "includes",
+    "sorted",
+    "ES",
+    "packages",
+    "speed",
+    "which",
+    "object",
+    "ES6",
+    "ES2022",
+    "mixins",
+    "hash",
+    "optimist",
+    "operating-system",
+    "width",
+    "columns",
+    "side"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/f1stnpm2/repudiandae-numquam-dicta.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/f1stnpm2/repudiandae-numquam-dicta/#readme",
+  "bugs": {
+    "url": "https://github.com/f1stnpm2/repudiandae-numquam-dicta/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
